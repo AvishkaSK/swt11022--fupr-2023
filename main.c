@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-    printf("HELLOW WORLD\n");
+    printf("HELLOW Friends\n");
     return 0;
 }
